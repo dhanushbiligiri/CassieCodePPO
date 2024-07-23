@@ -39,7 +39,6 @@ To run PPO on a cassie environment,
 python train.py ppo --env_name Cassie-v0 --num_procs 12 --run_name experiment01
 ```
 
-```
 
 To continue training existing models
 ``` Bash
